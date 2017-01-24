@@ -1,6 +1,6 @@
 ## What's new in Spark for R
 
-- Basic Operation
+- Basic Operations
 - UDF
 - Hyper paramteter tuning
 - Model Persistence

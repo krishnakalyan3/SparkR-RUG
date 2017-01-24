@@ -71,4 +71,3 @@ result <- gapplyCollect(
   })
 head(result)
 
-head(df)
